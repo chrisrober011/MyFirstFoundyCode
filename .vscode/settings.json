@@ -1,0 +1,9 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  }
+}
